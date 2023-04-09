@@ -1,7 +1,7 @@
 module main
 
-import src.jp
-import src.rb
+import jp
+import rb
 import os
 
 fn main() {
