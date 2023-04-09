@@ -1,0 +1,9 @@
+{
+  "workbench.sideBar.location": "right",
+  "editor.mouseWheelZoom": true,
+  "workbench.startupEditor": "none",
+  "editor.minimap.enabled": false,
+  "window.zoomLevel": 1,
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.colorTheme": "true"
+}
