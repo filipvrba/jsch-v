@@ -6,6 +6,7 @@ import os
 
 fn main() {
 	args := unsafe { os.args }
+	Arguments{}.new()
 
 	if args.len > 3 {
 		mut json_parser := jp.JsonParser{ path: args[1] }
